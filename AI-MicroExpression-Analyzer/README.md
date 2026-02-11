@@ -1,5 +1,9 @@
 # 🧠 AI Micro-Expression Analyzer
-
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-478%20Landmarks-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
 Real-time facial micro-expression analysis system that estimates **stress, hesitation, and emotional leakage** while a person speaks — powered by **MediaPipe Face Mesh (478 landmarks)** and **OpenCV**.
 
 ---
